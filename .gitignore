@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.json
+package download/linguagemc/prova.c
+package download/linguagemc/exerc.c
+package download/linguagemc/financeiro.c
+package download/linguagemc/jogo2.c
+package download/linguagemc/ativ.c
+package download/linguagemc/facul.c
+package download/linguagemc/lembrar.c
+package download/linguagemc/texte.c
