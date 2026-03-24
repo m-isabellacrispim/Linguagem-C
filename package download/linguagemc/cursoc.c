@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 #include <stdlib.h>
 
 #define texto "lindaaaa" //constante, toda vez que escrever texto vai ser substituido por 'lindaaaa'
